@@ -50,11 +50,18 @@ AI / Claude   ████████████████████  Clau
 
 ## Certification Roadmap
 
-| Target | Status |
-|--------|--------|
-| AWS Cloud Practitioner | Studying |
-| IT Passport (JP) | Planned |
-| CompTIA Fundamentals | Planned |
+| Category | Target | Status |
+|----------|--------|--------|
+| **Cloud** | AWS Cloud Practitioner | Studying |
+| **AI** | Claude Certified Architect (CCA) | Studying |
+| **IT National** | Fundamental IT Engineer Exam | Planned |
+| **IT National** | Applied IT Engineer Exam | Planned |
+| **Linux** | LinuC Level 1 | Planned |
+| **Linux** | LinuC Level 2 | Planned |
+| **Database** | Oracle Master / DB Specialist | Planned |
+| **Architecture** | Systems Architect (IPA) | Planned |
+| **Security** | Information Security Management (SG) | Planned |
+| **Accounting** | Bookkeeping 3rd / 2nd Grade | Planned |
 
 ## Connect
 
