@@ -1,3 +1,5 @@
+**[English](README.md)** | [日本語](README.ja.md)
+
 # Hi, I'm Yuki Yamamoto
 
 **Corporate Operations x AI Architecture**
