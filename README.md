@@ -2,24 +2,24 @@
 
 # Hi, I'm Yuki Yamamoto
 
-**Corporate Operations x AI Architecture**
+**Corporate Operations × AI Architecture**
 
-42-year-old back-office generalist turned AI system designer. 8 years of running accounting, design, IT, and web marketing single-handedly at an ad agency. Now building autonomous AI organizations with Claude Code.
+42-year-old back-office generalist turned AI system designer. 8 years running accounting, design, IT, and web marketing single-handedly at an ad agency. Now designing autonomous AI organizations through human-AI collaboration with Claude Code.
 
 ## What I Built
 
-**AI Corporation** - A virtual AI organization with fractal architecture:
+**[AI Corporation](https://github.com/yyamamoto1/AI-Corporation)** — A virtual AI organization with fractal architecture, designed and orchestrated through Claude Code:
 
 | Metric | Count |
 |--------|-------|
-| AI Members | President + 5 |
+| AI Members | President + 7 |
 | Departments | 13 teams |
 | Workspaces | 35 |
 | Skills | 2,140+ |
 | Agents | 1,072+ |
 | Commands | 1,492+ |
 
-Zero lines of code written by hand. All designed through Claude Code.
+Every component — from architecture definitions to agent behaviors — designed through human-AI collaboration with Claude Code.
 
 ## Skill Set
 
@@ -43,27 +43,30 @@ AI / Claude   ████████████████████  Clau
 
 | Repo | Description |
 |------|-------------|
+| [AI-Corporation](https://github.com/yyamamoto1/AI-Corporation) | Virtual AI org — fractal architecture, 13 teams, 2000+ skills |
 | [ai-agents-miyabi](https://github.com/yyamamoto1/ai-agents-miyabi) | Autonomous development powered by Agentic OS |
-| [github-guide](https://github.com/yyamamoto1/github-guide) | Git/GitHub complete guide (JP) |
-| [everything-claude-code](https://github.com/yyamamoto1/everything-claude-code) | Claude Code knowledge base |
-| [fullstack-growth-arch](https://github.com/yyamamoto1/fullstack-growth-arch) | Full-stack growth architecture |
+| [business-model-framework](https://github.com/yyamamoto1/business-model-framework) | Business model analysis and revenue simulation framework |
+| [github-guide](https://github.com/yyamamoto1/github-guide) | Git/GitHub complete guide (JP, Win/Mac) |
 
-## Certification Roadmap
+## Certifications
 
-| Category | Target | Status |
-|----------|--------|--------|
-| **Cloud** | AWS Cloud Practitioner | Studying |
-| **AI** | Claude Certified Architect (CCA) | Studying |
-| **IT National** | Fundamental IT Engineer Exam | Planned |
-| **IT National** | Applied IT Engineer Exam | Planned |
-| **Linux** | LinuC Level 1 | Planned |
-| **Linux** | LinuC Level 2 | Planned |
-| **Database** | Oracle Master / DB Specialist | Planned |
-| **Architecture** | Systems Architect (IPA) | Planned |
-| **Security** | Information Security Management (SG) | Planned |
-| **Accounting** | Bookkeeping 3rd / 2nd Grade | Planned |
+### Acquired
+
+| Category | Count | Details |
+|----------|-------|---------|
+| Industrial Engineering | 6 | Crane operator, forklift, rigging, and 3 others |
+
+### Target (2026-2027)
+
+| Certification | Status | Target |
+|---------------|--------|--------|
+| AWS Cloud Practitioner | Studying | 2026 Q3 |
+| Fundamental IT Engineer (FE) | Planned | 2026 Q4 |
+| LinuC Level 1 | Planned | 2027 Q1 |
 
 ## Connect
 
 [![X](https://img.shields.io/badge/@yamato__order-black?logo=x)](https://x.com/yamato_order)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/y-yamamoto-61b703288/)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/yamato65535)
 [![GitHub](https://img.shields.io/badge/yyamamoto1-black?logo=github)](https://github.com/yyamamoto1)
