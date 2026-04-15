@@ -2,24 +2,24 @@
 
 # Yuki Yamamoto
 
-**バックオフィス x AI アーキテクチャ**
+**バックオフィス × AI アーキテクチャ**
 
-42歳。広告代理店で8年間、経理・デザイン・IT・Webマーケを一人で担当。現在はClaude Codeで自律型AI組織を設計・運用中。
+42歳。広告代理店で8年間、経理・デザイン・IT・Webマーケを一人で担当。現在はClaude Codeとの協業で自律型AI組織を設計・運用中。
 
 ## 構築したもの
 
-**AI Corporation** - フラクタルアーキテクチャによる仮想AI組織:
+**[AI Corporation](https://github.com/yyamamoto1/AI-Corporation)** — フラクタルアーキテクチャによる仮想AI組織。全コンポーネントをClaude Codeとの協業で設計:
 
 | 指標 | 数量 |
 |------|------|
-| AIメンバー | President + 5名 |
+| AIメンバー | President + 7名 |
 | 部署 | 13チーム |
 | ワークスペース | 35個 |
 | Skills | 2,140+ |
 | Agents | 1,072+ |
 | Commands | 1,492+ |
 
-コードは1行も手書きしていない。全てClaude Codeとの対話で設計。
+アーキテクチャ定義からエージェント設計まで、全てClaude Codeとの人間-AI協業で構築。
 
 ## スキルセット
 
@@ -43,27 +43,30 @@ AI / Claude    ████████████████████  Cla
 
 | リポジトリ | 説明 |
 |-----------|------|
+| [AI-Corporation](https://github.com/yyamamoto1/AI-Corporation) | 仮想AI組織 — フラクタル構造、13チーム、2000+ Skills |
 | [ai-agents-miyabi](https://github.com/yyamamoto1/ai-agents-miyabi) | Agentic OS による自律開発 |
+| [business-model-framework](https://github.com/yyamamoto1/business-model-framework) | ビジネスモデル分析・収益シミュレーション |
 | [github-guide](https://github.com/yyamamoto1/github-guide) | Git/GitHub 完全ガイド（初心者向け） |
-| [everything-claude-code](https://github.com/yyamamoto1/everything-claude-code) | Claude Code ナレッジベース |
-| [fullstack-growth-arch](https://github.com/yyamamoto1/fullstack-growth-arch) | フルスタック成長アーキテクチャ |
 
-## 資格取得ロードマップ
+## 資格
 
-| カテゴリ | 資格 | ステータス |
-|---------|------|-----------|
-| **クラウド** | AWS Cloud Practitioner | 学習中 |
-| **AI** | Claude Certified Architect (CCA) | 学習中 |
-| **国家資格** | 基本情報技術者 | 計画中 |
-| **国家資格** | 応用情報技術者 | 計画中 |
-| **Linux** | LinuC Level 1 | 計画中 |
-| **Linux** | LinuC Level 2 | 計画中 |
-| **DB** | Oracle Master / データベーススペシャリスト | 計画中 |
-| **設計** | システムアーキテクト (IPA) | 計画中 |
-| **セキュリティ** | 情報セキュリティマネジメント (SG) | 計画中 |
-| **会計** | 簿記3級 / 2級 | 計画中 |
+### 取得済み
+
+| カテゴリ | 数 | 内容 |
+|---------|-----|------|
+| 工業系 | 6件 | クレーン運転・フォークリフト・玉掛け 他3件 |
+
+### 目標 (2026-2027)
+
+| 資格 | ステータス | 目標時期 |
+|------|-----------|---------|
+| AWS Cloud Practitioner | 学習中 | 2026 Q3 |
+| 基本情報技術者 (FE) | 計画中 | 2026 Q4 |
+| LinuC Level 1 | 計画中 | 2027 Q1 |
 
 ## つながる
 
 [![X](https://img.shields.io/badge/@yamato__order-black?logo=x)](https://x.com/yamato_order)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/y-yamamoto-61b703288/)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/yamato65535)
 [![GitHub](https://img.shields.io/badge/yyamamoto1-black?logo=github)](https://github.com/yyamamoto1)
