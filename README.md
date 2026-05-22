@@ -4,7 +4,7 @@
 
 **Corporate Operations × AI Architecture**
 
-42-year-old back-office generalist turned AI system designer. 8 years running accounting, design, IT, and web marketing single-handedly at an ad agency. Now designing autonomous AI organizations through human-AI collaboration with Claude Code.
+back-office generalist turned AI system designer. 8 years running accounting, design, IT, and web marketing single-handedly at an ad agency. Now designing autonomous AI organizations through human-AI collaboration with Claude Code.
 
 ## What I Built
 
